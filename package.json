@@ -1,0 +1,27 @@
+{
+  "name": "devflow-ai",
+  "version": "1.0.0",
+  "description": "An AI-powered collaborative software engineering team.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node --test",
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aparna8683/DevFlow-AI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aparna8683/DevFlow-AI/issues"
+  },
+  "homepage": "https://github.com/aparna8683/DevFlow-AI#readme",
+  "type": "module"
+}
